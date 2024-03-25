@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Machine learning, Artificial intelligence, Photography and Graphic design
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking for people with similar interests to collaborate with 
-- 📫 How to reach me via email ntkaysmedia@gmail.com
+- 📫 How to reach me via email nyashadzashekatsidzira@insignia.co.zw
 - How to reach me via phone call or WhatsApp +263716027115
 
 <!---
